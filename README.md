@@ -21,4 +21,3 @@ Have a look at my [professional experiences and backgroud](/ArchishaChandel_CV.p
 
 ## Contact Me
 [LinkedIn](https://www.linkedin.com/in/archisha-chandel/)
-[GitHub](https://github.com/archisha-chandel)
