@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/archisha-chandel/archisha-chandel.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Curiosity driven individual striving to find ingenious solutions to real-world problems. Actively contributing to the field of machine learning and artificial intelligence for more than a year now. Constantly associating myself with rigorous study of AI research papers and keeping myself updated with new technical advancements.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Resume
 
-### Markdown
+Have a look at my professional experiences and backgroud.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Professional Interests
+* Finding solutions to problems faced in deep learning networks
+* Contributions to TensorFlow
+* Use of Big Data in machine learning
+* Using AI for RPA
+* 3D computer vision and graphics
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/archisha-chandel/archisha-chandel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Personal Interests
+* Avid reader
+* 3D animation 
+* Fine art
+* Public Speaking
