@@ -4,7 +4,7 @@ Curiosity driven individual striving to find ingenious solutions to real-world p
 
 ## Resume
 
-Have a look at my [professional experiences and backgroud](/ArchishaChandel_CV.pdf).
+Have a look at my [professional experiences and backgroud](ArchishaChandel_CV.pdf).
 
 ## Professional Interests
 * Finding solutions to problems faced in deep learning networks
