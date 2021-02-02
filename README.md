@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 Curiosity driven individual striving to find ingenious solutions to real-world problems. Actively contributing to the field of machine learning and artificial intelligence. Constantly associating myself with rigorous study of AI research papers and keeping myself updated with new technical advancements. My experience so far highlights the following :
 - Inquisitive spirit
@@ -25,5 +25,7 @@ Have a look at my [professional experiences and backgroud](ArchishaChandel_CV.pd
 
 ## Contact Me
 [LinkedIn](https://www.linkedin.com/in/archisha-chandel/)
+
+[Kaggle](https://www.kaggle.com/archisha26)
 
 [CodeChef](https://www.codechef.com/users/archisha)
